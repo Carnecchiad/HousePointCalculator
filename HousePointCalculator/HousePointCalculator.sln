@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HousePointCalculator", "HousePointCalculator\HousePointCalculator.pyproj", "{0755F274-14C0-4FAE-8FBA-0248A786C633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0755F274-14C0-4FAE-8FBA-0248A786C633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0755F274-14C0-4FAE-8FBA-0248A786C633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48306DD3-87B7-4547-BF34-AA7F224C64A7}
+	EndGlobalSection
+EndGlobal
